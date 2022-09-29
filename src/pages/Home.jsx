@@ -45,11 +45,7 @@ const Home = () => {
         </IonHeader>
         <IonContent fullscreen>
   
-          <IonHeader collapse="condense">
-            <IonToolbar>
-              <IonTitle size="large">Dashboard</IonTitle>
-            </IonToolbar>
-          </IonHeader>
+       
   
           <IonRow className="ion-margin-start ion-margin-end ion-justify-content-center ion-text-center">
             <IonCol size="12">
